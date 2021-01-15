@@ -25,9 +25,9 @@ input {
 button {
     width: 100%;
     font-weight: bold;
-    background-color: #8872db;
-    height: 40px;
-    border: 1px solid black;
+    background-color: #9872db;
+    height: 60px;
+    border: 4px solid white;
     cursor: pointer;
 }
 
