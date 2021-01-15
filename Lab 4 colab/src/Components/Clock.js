@@ -9,7 +9,7 @@ class Clock extends Component{
     componentDidMount(){
             this.timer = setInterval(
                 () => this.setState({date: new Date()}),
-                1000
+                999
             );
         }
     componentWillUnmount(){
