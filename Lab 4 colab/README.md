@@ -1,5 +1,5 @@
 Team Member: Shivam Rattan (101339648)
-Team menber: Natasha Rupani (101339597)
+Team menber: Matthew Glezos (100923629)
 
 Instructions to run:
 nmp i
